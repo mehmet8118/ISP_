@@ -1,6 +1,5 @@
-import requests,os,sys,argparse,re,threading,random,socket,re
-from colorama import Fore, Style
-from bs4 import BeautifulSoup
+import requests,os,sys,random
+
 
 
 
